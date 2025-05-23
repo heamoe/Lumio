@@ -1,4 +1,4 @@
-package com.amos.loginui.ui.theme.component
+package com.lumio.lumio.ui.theme.component
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
