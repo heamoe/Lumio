@@ -1,0 +1,32 @@
+tables:
+
+User:
+	username
+	user_id
+	user_pwd
+	user_avatar
+	follower
+	following
+	
+Content:
+	user_id
+	images
+	article_id
+	title
+	content
+	likes
+	fav
+	post_time
+	
+Comments:
+	article_id
+	user_id
+	comments
+	post_time
+	
+	
+	
+	
+	
+	
+	
